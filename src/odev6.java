@@ -7,7 +7,7 @@ public class odev6 {
         String borc = "";
         int month, day;
         boolean isError = false;
-
+        String s = in.nextLine();
         System.out.print("Doğdunuz ayı giriniz: ");
         month = in.nextInt();
         System.out.print("Doğdunuz günü giriniz: ");
